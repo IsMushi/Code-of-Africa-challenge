@@ -10,7 +10,7 @@ To run the Gallery part of this project:
 
 1. Clone the repository by running the following command in your terminal:
    ```sh
-   git clone https://github.com/IsMushi/Code-of-Africa-challenge-
+   git clone https://github.com/IsMushi/Code-of-Africa-challenge.git
    ```
 2. Open `index.html` in your web browser to view the gallery.
 
