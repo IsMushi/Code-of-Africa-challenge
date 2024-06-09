@@ -32,6 +32,7 @@ To run the String Transform part of this project:
    ```
    Alternatively, you can run:
    ```sh
+   cd challenges
    node stringTransform.js
    ```
 4. Follow the instructions displayed in your terminal.
@@ -47,6 +48,7 @@ This part of the project is used to find subarrays according to a given target.
    ```
    Alternatively, you can run:
    ```sh
+   cd challenges
    node ArrayMap.js
    ```
 3. If you want to change the array and target values, open `ArrayMap.js` in your editor, modify the array and target, and then repeat the previous steps.
